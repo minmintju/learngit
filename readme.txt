@@ -7,3 +7,4 @@ This is a new modification from branch dev.
 test fast forward merge.
 modify from master after fast forward merge.
 new commit in branch bugFix
+Test stash.
